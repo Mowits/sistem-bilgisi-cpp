@@ -9,3 +9,5 @@ Bu program Linux sisteminde CPU, RAM, İşletim Sistemi ve Ekran Kartı bilgiler
 ## Çalıştırma
 
 ```bash ./sistem_bilgisi ``` 
+## İndirme 
+``` git clone https://github.com/Mowits/sistem-bilgisi-cpp.git```
