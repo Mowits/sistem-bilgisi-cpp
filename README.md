@@ -4,10 +4,11 @@ Bu program Linux sisteminde CPU, RAM, İşletim Sistemi ve Ekran Kartı bilgiler
 
 ## Derleme
 
-```bash
-g++ sistem_bilgisi.cpp -o sistem_bilgisi
+```bash ``` 
 
+g++ sistem_bilgisi.cpp -o sistem_bilgisi
 
 ## Çalıştırma
 
+```bash ``` 
 ./sistem_bilgisi
