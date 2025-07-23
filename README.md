@@ -6,3 +6,8 @@ Bu program Linux sisteminde CPU, RAM, İşletim Sistemi ve Ekran Kartı bilgiler
 
 ```bash
 g++ sistem_bilgisi.cpp -o sistem_bilgisi
+
+
+## Çalıştırma
+
+./sistem_bilgisi
